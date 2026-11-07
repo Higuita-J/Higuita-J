@@ -1,55 +1,55 @@
-# Hi, I'm Higuita 👋
+# Hola, soy Higuita 👋
 
-### Odoo ERP Developer · Custom Solutions · Business Process Automation
+### Desarrollador Odoo ERP · Soluciones a medida · Automatización de procesos empresariales
 
-I build and customize business solutions with **Odoo**, connecting technical implementation with the way organizations actually work.
+Desarrollo y personalizo soluciones empresariales con **Odoo**, conectando la implementación técnica con las necesidades reales de las organizaciones.
 
-My focus is extending Odoo to fit real operational needs: developing custom modules, adapting standard features, and creating websites and web pages within the Odoo ecosystem.
+Mi enfoque está en adaptar Odoo a los procesos de cada negocio mediante el desarrollo de módulos personalizados, la ampliación de funcionalidades estándar y la creación de sitios web y páginas dentro del ecosistema Odoo.
 
 ---
 
-## What I work on
+## En qué trabajo
 
-- **Odoo development:** Custom modules, feature extensions, and adaptations of standard workflows.
-- **Business applications:** Solutions that support day-to-day operations and improve process consistency.
-- **Odoo websites:** Website and web page development integrated into the Odoo environment.
-- **ERP process understanding:** Applying functional knowledge to translate business requirements into practical technical solutions.
+- **Desarrollo Odoo:** módulos personalizados, ampliación de funcionalidades y adaptación de flujos de trabajo estándar.
+- **Aplicaciones empresariales:** soluciones que apoyan las operaciones diarias y mejoran la consistencia de los procesos.
+- **Sitios web en Odoo:** desarrollo de sitios y páginas web integrados en el entorno Odoo.
+- **Procesos ERP:** aplicación de conocimientos funcionales para convertir necesidades empresariales en soluciones técnicas.
 
-## Odoo experience
+## Experiencia con Odoo
 
 **Odoo 16 · 17 · 18 · 19**
 
-I work across multiple Odoo versions, using the platform's framework and ecosystem to build and maintain tailored functionality.
+Trabajo con distintas versiones de Odoo, utilizando su framework y ecosistema para desarrollar y mantener funcionalidades adaptadas a cada necesidad.
 
-## Technical toolkit
+## Tecnologías
 
-| Area | Technologies |
+| Área | Tecnologías |
 |---|---|
 | Backend | Python |
 | Frontend | JavaScript, HTML, CSS |
-| Odoo development | XML, Odoo framework and modules |
-| Database | PostgreSQL |
+| Desarrollo Odoo | XML, framework y módulos de Odoo |
+| Bases de datos | PostgreSQL |
 
-## Business knowledge
+## Conocimientos funcionales
 
-Alongside development, I have functional knowledge of:
+Además del desarrollo, cuento con conocimientos funcionales en:
 
-- Human Resources
-- Accounting
-- Business Administration
+- Recursos Humanos
+- Contabilidad
+- Administración de empresas
 
-This combination helps me understand requirements beyond the code and approach ERP solutions from both technical and operational perspectives.
+Esta combinación me permite comprender los requerimientos más allá del código y abordar las soluciones ERP desde una perspectiva tanto técnica como operativa.
 
 ---
 
-## My approach
+## Mi enfoque
 
-Understand the process. Identify the real need. Build a solution that fits.
+Comprender el proceso. Identificar la necesidad real. Desarrollar una solución que se ajuste.
 
-I value maintainable development, practical problem-solving, and technology that supports measurable improvements in business operations.
+Valoro el desarrollo mantenible, la resolución práctica de problemas y el uso de tecnología que contribuya a mejorar las operaciones empresariales.
 
 ---
 
 <p align="center">
-  <sub>Odoo ERP Development · Custom Business Solutions · Continuous Improvement</sub>
+  <sub>Desarrollo Odoo ERP · Soluciones empresariales a medida · Mejora continua</sub>
 </p>
